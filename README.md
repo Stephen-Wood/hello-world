@@ -1,3 +1,3 @@
 # hello-world
 
-There are things here now. Yay!
+Now there's nothing again.
